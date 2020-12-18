@@ -1,4 +1,5 @@
 package ru.grim;
 
-public class ActorReceive {
+
+public class ActorReceive extends AbstractActor {
 }
