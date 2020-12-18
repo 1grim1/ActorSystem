@@ -1,4 +1,4 @@
 package ru.grim;
 
-public class Server extends AbstractActor{
+public class Server{
 }
